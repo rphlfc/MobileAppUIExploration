@@ -2,7 +2,7 @@
 
 Implementation using SwiftUI of this [Dribbble layout](https://dribbble.com/shots/11957539-Mobile-App-UI-Exploration).
 
-Vídeo do aplicativo funcionando
+Video of the app running<br>
 https://youtu.be/ZxFICRifc40
 
 <p align="center">
