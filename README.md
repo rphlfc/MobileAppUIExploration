@@ -11,9 +11,9 @@ https://youtu.be/ZxFICRifc40
   <img src="https://user-images.githubusercontent.com/16376748/88975412-82cfc700-d290-11ea-8728-c18045a3b4a4.png" width="200">
 </p>
 
-## Requisitos
+## Requirements
 
-- iOS 13 ou superior
+- iOS 13 or superior
 - Swift 5
 - Xcode 11.4
 
