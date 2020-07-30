@@ -9,7 +9,27 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, World!")
+        ZStack {
+            Color("background").edgesIgnoringSafeArea(.all)
+            
+            VStack {
+                Spacer()
+                HeaderView()
+                
+                Spacer()
+                SearchView()
+                
+                Spacer()
+                ButtonBarView()
+                
+                Spacer()
+                CardsView()
+                    .padding(.top, 30)
+                
+                Spacer()
+                NavBarView().offset(y: 35)
+            }
+        }
     }
 }
 
